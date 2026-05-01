@@ -1,5 +1,6 @@
-
 Hi, I'm Mona 👋
-Software Developer passionate about building practical applications
-and exploring the world of AI 💻 
-Always learning and improving 🌱 
+Software Developer | Interested in AI
+Building practical applications and exploring new technologies.
+💻 Backend development
+🤖 AI & new technologies
+🌱 Always learning and improving
