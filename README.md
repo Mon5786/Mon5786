@@ -1,6 +1,5 @@
 # Hi, I'm Mona 👋
 
-Software Developer 
 💻 Software development
 🤖 AI & data science
 ---
